@@ -1,0 +1,66 @@
+.upper{
+    background:rgb(19, 172, 172);
+}
+.upper ul{
+    overflow: auto;
+    margin-top: 10px;
+}
+.upper li{
+    float: left;
+    padding: 10px;
+    list-style: none;
+}
+.upper li p{
+    margin-top: 0px;
+    color: aliceblue;
+}
+.side{
+    margin: 20px;
+    float: right;
+    color: aliceblue;
+}
+.upper li a{
+    text-decoration: none;
+    list-style: none;
+    color: aliceblue;
+}
+.navbar li{
+    float: left;
+   
+    padding: 10px;
+    list-style: none;
+    color: antiquewhite;
+}
+.navbar li a{
+    color: grey;
+    text-decoration: none;
+}
+.navbar ul{
+    overflow: auto;
+    margin-left: 400px;
+    margin-top: 40px;
+}
+.donate button{
+    float: right;
+   margin-right: 100px;
+   margin-top: 10px;
+    padding: 5px;
+   background: aqua;
+    border-color: aqua;
+    
+   
+}
+nav{
+    margin-bottom: 100px;
+}
+img{
+    float: left;
+    margin-top: 0px;
+    margin-left: 0px;
+    width: 100px;
+    height: 100px;
+}
+.image img{
+    width: 100%;
+    height: 500px;
+}
